@@ -1,11 +1,8 @@
 /******************************\
-| John Bretz  Reader Response 4|
-|------------------------------|
 | This will create a piece of  |
 |  art based of of mondrians   |
 |       abstract work.         |
 \******************************/
-
 String paletteFileName = "top100";
 int speed = 1;
 int crawlerDistance = 10;
