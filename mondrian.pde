@@ -6,8 +6,6 @@
 |       abstract work.         |
 \******************************/
 
-// initialize universal variables 
-
 String paletteFileName = "top100";
 int speed = 1;
 int crawlerDistance = 10;
